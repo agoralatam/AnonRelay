@@ -40,5 +40,5 @@ Garantizado para pruebas de anonimato y privacidad en línea.
   ```
 6. **Ejecución**
   ```bash 
-   bash python3 AnonRelay.py [TIEMPO DE ROTACIÓN EN SEGUNDOS]
+   python3 AnonRelay.py [TIEMPO DE ROTACIÓN EN SEGUNDOS]
   ```
