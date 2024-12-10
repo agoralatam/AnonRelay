@@ -2,7 +2,7 @@
 **Roteo de dirección IP**
 
 ## Descripción  
-**AnonRelay** es una script que obtiene una IP pública a través de los nodos finales de la red Tor de manera rotativa (timepo ajustable por el usuario). Utilizando configuraciones para evitar la fuga de solicitudes DNS. Tambien obteniendo la IP asignada por un nodo de salida y detalles del nodo, como su ubicación y huella digital.
+**AnonRelay** es una script que obtiene una IP pública a través de los nodos finales de la red Tor de manera rotativa (tiempo ajustable por el usuario). Utilizando configuraciones para evitar la fuga de solicitudes DNS. Tambien obteniendo la IP asignada por un nodo de salida y detalles del nodo, como su ubicación y huella digital.
 
 Garantizado para pruebas de anonimato y privacidad en línea.
 
@@ -12,7 +12,7 @@ Garantizado para pruebas de anonimato y privacidad en línea.
 ---
 ## Características Principales  
 - Rotación de IP
-- Informaíon a cerca del nodo
+- Informacíon a cerca del nodo
 - Protección contra fugas DNS
 ---
 
